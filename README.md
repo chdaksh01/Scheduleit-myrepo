@@ -1,7 +1,7 @@
 # Scheduleit-myrepo
-# A web app that helps you organise your day, weekend and more! So get started!
-
-Made by- 
+# A web app that helps you organise your day, weekend and more! Get organised!
+Features- Sorts all the events according to their start time.
+# Made by- 
 Daksh Chaudhary 
 Mathematics and Computing Part 1
 Phn No. 8700034469
