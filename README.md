@@ -1,6 +1,6 @@
 # Scheduleit-myrepo
 # A web app that helps you organise your day, weekend and more! Get organised!
-Feature- Sorts all the events according to their start time.
+Features- Sorts all the events according to their start time. You can separately schedule daily life, weekends and other stuff.
 # Made by- 
 Daksh Chaudhary 
 Mathematics and Computing Part 1
